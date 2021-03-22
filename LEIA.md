@@ -10,4 +10,4 @@ Para o programa funcionar você deve ter instalado o "Pyautogui", caso não tenh
 
 Como usar:
 
-Para usar esse programa apenas execute o arquivo, escreva os números, para o programa dividir os números separe os números entre vígulas ou espaços,* *enter* *, entre a quantidade de colunas * *enter* *, aparecera 'tudo pronto' agora você tera (por padrão) 3 segundo para entra no programa, exemplo ecxcel, e ele começara a digitar.
+Para usar esse programa apenas execute o arquivo, escreva os números, para o programa dividir os números separe os números entre vígulas ou espaços,* *enter* *, entre a quantidade de colunas * *enter* *, aparecera 'tudo pronto' agora você tera (por padrão) 3 segundo para entra no programa, exemplo excel, e ele começara a digitar.
