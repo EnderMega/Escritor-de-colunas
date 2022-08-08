@@ -1,9 +1,6 @@
 # Escritor-de-colunas
 Um programa em python para escrever números em colunas automáticamente.
 
-# Escritor-de-colunas
-Um programa em python para digitar vários números em colunas.
-
 Requisitos:
 
 Para o programa funcionar você deve ter instalado o "Pyautogui", caso não tenho digite no prompt de comando "pip install pyautogui" e ter o python instalado. 
