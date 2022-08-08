@@ -1,7 +1,7 @@
 # Escritor-de-colunas
 Um programa em python para escrever números em colunas automáticamente.
 
-# Escreitor-de-colunas
+# Escritor-de-colunas
 Um programa em python para digitar vários números em colunas.
 
 Requisitos:
